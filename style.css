@@ -156,8 +156,6 @@ line-height: 26px;
   {
     flex-direction: column;
 }
-.teams-content-img{
-  grid-template-columns: 1fr;
-}
+
 
 }
